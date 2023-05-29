@@ -1,57 +1,79 @@
-Ishtehar Hussain
+﻿Ishtehar Hussain
 Software Developer - Toronto ON, Canada
 
 ishteharhussain@gmail.com
 ishteharhussain.com
 linkedin.com/in/ishteharhussain
 github.com/XEQTIONR
-	
+
 EXPERIENCE
+
 Alley Interactive, New York (Remote) — Software Developer
 February 2021 - Present
-Participated in scrum teams working on various production and maintenance projects for our clients. This involved designing systems and solutions using various tools such as WordPress and Laravel with reactive front-ends written in React or Vue. Code produced was highly fault tolerant as a result of our process which involved all work going through code review, writing unit tests, internal QA and client UAT on non-production environments.
 
+Participated in scrum teams working on various production and maintenance projects for our clients. This involved
+designing systems and solutions using various tools such as WordPress and Laravel with reactive front-ends written in
+React or Vue. Code produced was highly fault tolerant as a result of our process which involved all work going through
+code review, writing unit tests, internal QA and client UAT on non-production environments.
 
 Revival Point LLC,  New York (Remote) — Senior Full Stack Developer
 July 2019 - June 2020 / 1 year
-I led a small team to rebuild the internal reporting systems for the company. We also performed a complete DevOps rehaul which included migrating to AWS, setting up automatic periodic backups, setting up error logging and notifications, setting up additional dev and staging environments and CI pipelines. This improved the accuracy of sales reports by 10% and ROAS reports by 15%.
+
+I led a small team to rebuild the internal reporting systems for the company. We also performed a complete DevOps rehaul
+which included migrating to AWS, setting up automatic periodic backups, setting up error logging and notifications,
+setting up additional dev and staging environments and CI pipelines. This improved the accuracy of sales reports by 10%
+and ROAS reports by 15%.
 
 
 LeverageIT, Toronto, ON — Senior Software Developer
 May 2018 - April 2019 / 1 year
-Led a small team of developers  in the development of apps and microservice 
-based solutions for our clients. Backends were usually written in Laravel or WordPress with Angular or Vue front-ends. There were  various 3rd party APIs
-and services, provisioning resources for deployment. I was able to get the team 
-to adopt GitFlow which reduced merge conflicts by 50% and sped up our release cycles.
+
+Led a small team of developers  in the development of apps and microservice based solutions for our clients. Backends
+were usually written in Laravel or WordPress with Angular or Vue front-ends. There were  various 3rd party APIs and
+services, provisioning resources for deployment. I was able to get the team to adopt GitFlow which reduced merge
+conflicts by 50% and sped up our release cycles.
+
+
 Ariad Communications, Toronto, ON — Full Stack Developer
 August 2017 - April 2018 / 8 months
-Worked in a small team to develop and maintain medium sized sites on WordPress and small microsites on Laravel/Lumen framework. Performed various DevOps tasks such as setting up servers, backing up databases, writing CI pipelines. 
+
+Worked in a small team to develop and maintain medium sized sites on WordPress and small microsites on Laravel/Lumen
+framework. Performed various DevOps tasks such as setting up servers, backing up databases, writing CI pipelines.
 
 
-Intertrac Nano, Dhaka (Remote) — Software Engineer
+Intertrac Nano, Dhaka (Remote - Pro Bono) — Software Engineer
 November 2016 - April-2017 / 6 months
-Pro bono work where I worked with the business owner designed a database schema and built and deployed a small Laravel app with the front-end written mainly in VueJS. Prototype available on GitHub.
+
+I worked with the business owner to  design the  database schema and built and deployed a small Laravel app, a small
+inventory management system. The front-end is written mainly in Vue. The prototype is available on my GitHub.
 
 
 York University, Toronto, ON — Full Stack Web Developer
 January 2014 - November 2016 / 2 years 11 months
-Built and deployed features on various school sites mainly written in WordPress. Wrote simple bash/PHP scripts and cron jobs for tasks such as periodic data backups, sanitization of input files, calculations on simple data, etc.
-	
+
+Built and deployed features on various school sites mainly written in WordPress. Wrote simple bash/PHP scripts and cron
+jobs for tasks such as periodic data backups, sanitization of input files, calculations on simple data, etc.
+
 SKILLS
-* Back end development:
-* - PHP / Laravel / WordPress / MySQL / ElasticSearch / Docker / GoLang / Objective C / Redis / PHPUnit
-* Front end development:
-* - HTML / CSS / JavaScript / TypeScript / React / Vue / Angular / InertiaJS /  JQuery / MUI / Bootstrap / Tailwind
-* DevOps:
-*  - AWS / Bash / Docker / Firebase / DigitalOcean / Buddy / CircleCI / TravisCI
-* Version Control:
-* - Git
+
+Back end development:
+- PHP / Laravel / WordPress / MySQL / ElasticSearch / Docker / GoLang / Objective C / Redis / PHPUnit
+
+Front end development:
+- HTML / CSS / JavaScript / TypeScript / React / Vue / Angular / InertiaJS /  JQuery / MUI / Bootstrap / Tailwind
+
+DevOps:
+- AWS / Bash / Docker / Firebase / DigitalOcean / Buddy / CircleCI / TravisCI
+
+Version Control:
+- Git
 
 
 EDUCATION
 * Bachelor or Science - Computer Science York University
 
+
 PROJECTS
 * Stripekart (Stripekart.com) - An ecommerce store written in Laravel / React / InertiaJS, hosted on a LAMP stack with Redis used for caching and queues and ElasticSearch for text search.
-* DaGameLeauge- A non-profit founded in 2005 which organized various esport LAN tournaments and later online tournaments. 
+* DaGameLeauge- A non-profit founded in 2005 which organized various esport LAN tournaments and later online tournaments.
 * Cloudshapes - A location based social media app for iOS devices written in Objective C.
